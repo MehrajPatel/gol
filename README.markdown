@@ -8,5 +8,3 @@ Test Build Trigger
 
 Test Build Trigger
 
-
-Mehraj Patel
